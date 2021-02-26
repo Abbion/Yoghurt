@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+*.suo
+*.db
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.recipe
+Yoghurt/x64
+x64
