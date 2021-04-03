@@ -1,3 +1,6 @@
 [submodule "Yoghurt/externals/glfw"]
 	path = Yoghurt/externals/glfw
 	url = https://github.com/glfw/glfw.git
+[submodule "Yoghurt/externals/plog"]
+	path = Yoghurt/externals/plog
+	url = https://github.com/SergiusTheBest/plog.git
