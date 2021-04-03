@@ -1,0 +1,3 @@
+[submodule "Yoghurt/externals/glfw"]
+	path = Yoghurt/externals/glfw
+	url = https://github.com/glfw/glfw.git
